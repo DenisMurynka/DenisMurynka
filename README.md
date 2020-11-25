@@ -1,7 +1,9 @@
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DenisMurynka&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=DenisMurynka&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DenisMurynka&hide=css,java,html&theme=tokyonight">
+</p>
 
 
 [![Package Control total downloads](https://img.shields.io/badge/Name-Denis-ff69b4)]()
@@ -11,7 +13,21 @@
 
 
 
-<a href="https://github.com/DenisMurynka/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DenisMurynka&layout=compact&theme=material-palenight" />
-</a>
+
+
+
+### Languages
+
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
+
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
+![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
+![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-fff?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco)
+
