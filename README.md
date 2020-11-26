@@ -18,7 +18,7 @@
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/DenisMurynka?tab=repositories&q=&type=&language=python)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
 
 
