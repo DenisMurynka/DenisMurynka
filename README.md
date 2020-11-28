@@ -31,9 +31,8 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco)
 ![Selenium](https://img.shields.io/badge/-Selenium-fff?&logo=Selenium)
 
-<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
-
+<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"><img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
+<img title="aws" alt="aws" width="40px" src="https://img.icons8.com/color/452/amazon-web-services.png">
 ### Social Networks
 [<img src="https://img.shields.io/badge/-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/demnis-murynka/) 
 [<img src = "https://img.shields.io/badge/-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/denis.murynka/) 
