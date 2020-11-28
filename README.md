@@ -13,8 +13,7 @@
 
 
 
-<img title="Selenium" alt="Selenium" width="25px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
-![Selenium](https://img.shields.io/badge/-Selenium-fff?&logo=pytest-Se>)
+
 
 ### Languages
 
