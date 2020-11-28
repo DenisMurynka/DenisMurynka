@@ -5,12 +5,13 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DenisMurynka&hide=css,java,html&theme=tokyonight">
 </p>
 
+<p align = "center">
 
 [![Package Control total downloads](https://img.shields.io/badge/Name-Denis-ff69b4)]()
 [![Package Control total downloads](https://img.shields.io/badge/Sex-Yes-green)]()
 [![Package Control total downloads](https://img.shields.io/badge/Gender-Engineer-yellow)]()
 [![](https://img.shields.io/badge/TG-denowns-blue)](https://t.me/denowns)
-
+</p>
 
 
 
