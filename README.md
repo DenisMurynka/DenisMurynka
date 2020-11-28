@@ -32,7 +32,6 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-fff?&logo=Selenium)
 
 <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-
 <img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
 
 ### Social Networks
