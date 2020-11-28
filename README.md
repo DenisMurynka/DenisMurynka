@@ -16,24 +16,25 @@
 
 <p>
 
-### Languages
+### Languages    Technologies
 <img title="Bash" alt="Bash" width="40px" src="https://img.icons8.com/color/2x/python.png"><br><img title="Bash" alt="Bash" width="40px" src="https://img.icons8.com/color/2x/postgreesql.png">
 
 
 
-### Technologies
 <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
 <br><img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
 <br><img title="Kubernetes" alt="Kubernetes" width="40px" src="https://img.icons8.com/color/2x/kubernetes.png">
 <br><img title="Linux" alt="Linux" width="40px" src="https://img.icons8.com/color/2x/linux.png">
 <br><img title="Bash" alt="Bash" width="40px" src="https://img.icons8.com/color/2x/jenkins.png">
 <br><img title="GitLab" alt="GitLab" width="40px" src="https://img.icons8.com/color/2x/gitlab.png">
-</p>
+
 
 ### Cloud
 <img title="Amason Web Services" alt="Amason Web Services" width="40px" src="https://img.icons8.com/color/452/amazon-web-services.png">
 <br><img title="Digital Ocean" alt="Digital Ocean" width="40px" src="https://img.icons8.com/windows/344/digital-ocean.png">
 <br><img title="Digital Ocean" alt="Digital Ocean" width="40px" src="https://img.icons8.com/color/2x/heroku.png">
+
+</p>
 
 ### Social Networks
 [<img src="https://img.shields.io/badge/-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/demnis-murynka/) 
