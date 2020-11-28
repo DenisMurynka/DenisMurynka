@@ -23,7 +23,6 @@
 <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"><img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
 <img title="Kubernetes" alt="Kubernetes" width="40px" src="https://img.icons8.com/color/2x/kubernetes.png">
 <img title="Linux" alt="Linux" width="40px" src="https://img.icons8.com/color/2x/linux.png">
-<img title="Bash" alt="Bash" width="40px" src="https://img.icons8.com/plasticine/2x/bash.png">
 <img title="Bash" alt="Bash" width="40px" src="https://img.icons8.com/color/2x/jenkins.png">
 <img title="GitLab" alt="GitLab" width="40px" src="https://img.icons8.com/color/2x/gitlab.png">
 
