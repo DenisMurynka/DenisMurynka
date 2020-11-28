@@ -16,10 +16,8 @@
 
 
 ### Languages
-
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/DenisMurynka?tab=repositories&q=&type=&language=python)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
-
+<img title="Bash" alt="Bash" width="40px" src="https://img.icons8.com/color/2x/python.png">
+<img title="Bash" alt="Bash" width="40px" src="https://img.icons8.com/color/2x/postgreesql.png">
 
 
 ### Technologies
@@ -27,6 +25,8 @@
 <img title="Kubernetes" alt="Kubernetes" width="40px" src="https://img.icons8.com/color/2x/kubernetes.png">
 <img title="Linux" alt="Linux" width="40px" src="https://img.icons8.com/color/2x/linux.png">
 <img title="Bash" alt="Bash" width="40px" src="https://img.icons8.com/plasticine/2x/bash.png">
+<img title="Bash" alt="Bash" width="40px" src="https://img.icons8.com/color/2x/jenkins.png">
+
 
 ### Cloud
 <img title="Amason Web Services" alt="Amason Web Services" width="40px" src="https://img.icons8.com/color/452/amazon-web-services.png">
