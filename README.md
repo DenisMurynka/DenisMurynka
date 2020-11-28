@@ -30,6 +30,8 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-fff?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco)
+![Selenium](https://img.icons8.com/color/48/000000/selenium-test-automation.png)
+<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
 
 
 
