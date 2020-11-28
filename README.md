@@ -33,18 +33,7 @@
 ![Selenium](https://img.shields.io/travis/pytest-dev/pytest-selenium.svg)
 <img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
 
-
-![Selenium](https://img.shields.io/badge/license-MPL%202.0-blue.svg)
-
-![Selenium](https://img.shields.io/pypi/v/pytest-selenium.svg)
-
-![Selenium](https://img.shields.io/travis/pytest-dev/pytest-selenium.svg)
-
-![Selenium](https://img.shields.io/badge/docs-latest-brightgreen.svg)
-
-![Selenium](https://img.shields.io/github/issues-raw/pytest-dev/pytest-selenium.svg)
-
-![Selenium](https://img.shields.io/requires/github/pytest-dev/pytest-selenium.svg)
+![Selenium](https://img.shields.io/badge/-Selenium-fff?&logo=pytest-selenium)
 
 ### Social Networks
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/demnis-murynka/) 
