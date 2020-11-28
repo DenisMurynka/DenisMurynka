@@ -9,7 +9,6 @@
 
 [![Package Control total downloads](https://img.shields.io/badge/Name-Denis-ff69b4)]()
 [![Package Control total downloads](https://img.shields.io/badge/Gender-Engineer-yellow)]()
-[![](https://img.shields.io/badge/TG-denowns-blue)](https://t.me/denowns)
 
 </p>
 
@@ -31,7 +30,7 @@
 ### Cloud
 <img title="Amason Web Services" alt="Amason Web Services" width="40px" src="https://img.icons8.com/color/452/amazon-web-services.png"><img title="Digital Ocean" alt="Digital Ocean" width="40px" src="https://img.icons8.com/windows/344/digital-ocean.png"><img title="Digital Ocean" alt="Digital Ocean" width="40px" src="https://img.icons8.com/color/2x/heroku.png">
 
-### Social Networks
-[<img width="35px" src="https://img.icons8.com/color/2x/linkedin-2--v2.png" />](https://www.linkedin.com/in/demnis-murynka/) 
+### Let`s connect!
+[<img width="35px" src="https://img.icons8.com/color/2x/linkedin-2--v2.png" />](https://www.linkedin.com/in/demnis-murynka/)
+[<img width="35px" src = "https://img.icons8.com/color/2x/telegram-app--v3.png">](https://t.me/denowns)
 [<img width="35px" src = "https://img.icons8.com/color/2x/instagram-new.png">](https://www.instagram.com/denis.murynka/) 
-[<img width="35px" src = "https://img.icons8.com/color/2x/telegram-app--v3.png">](https://t.me/denowns) 
