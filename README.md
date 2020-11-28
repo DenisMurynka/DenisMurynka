@@ -17,9 +17,7 @@
 <p>
 
 ### Languages
-<img title="Bash" alt="Bash" width="40px" src="https://img.icons8.com/color/2x/python.png">
-<br>
-<img title="Bash" alt="Bash" width="40px" src="https://img.icons8.com/color/2x/postgreesql.png">
+<img title="Bash" alt="Bash" width="40px" src="https://img.icons8.com/color/2x/python.png"><br><img title="Bash" alt="Bash" width="40px" src="https://img.icons8.com/color/2x/postgreesql.png">
 
 
 
