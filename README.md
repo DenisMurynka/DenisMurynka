@@ -33,24 +33,12 @@
 ![Selenium](https://img.shields.io/travis/pytest-dev/pytest-selenium.svg)
 <img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
 
-.. image:: https://img.shields.io/badge/license-MPL%202.0-blue.svg
-   :target: https://github.com/pytest-dev/pytest-selenium/blob/master/LICENSE
-   :alt: License
-.. image:: https://img.shields.io/pypi/v/pytest-selenium.svg
-   :target: https://pypi.python.org/pypi/pytest-selenium/
-   :alt: PyPI
-.. image:: https://img.shields.io/travis/pytest-dev/pytest-selenium.svg
-   :target: https://travis-ci.org/pytest-dev/pytest-selenium/
-   :alt: Travis
-.. image:: https://img.shields.io/badge/docs-latest-brightgreen.svg
-   :target: http://pytest-selenium.readthedocs.io/en/latest/
-   :alt: Read the Docs
-.. image:: https://img.shields.io/github/issues-raw/pytest-dev/pytest-selenium.svg
-   :target: https://github.com/pytest-dev/pytest-selenium/issues
-   :alt: Issues
-.. image:: https://img.shields.io/requires/github/pytest-dev/pytest-selenium.svg
-   :target: https://requires.io/github/pytest-dev/pytest-selenium/requirements/?branch=master
-   :alt: Requirements
+(https://img.shields.io/badge/license-MPL%202.0-blue.svg)
+(https://img.shields.io/pypi/v/pytest-selenium.svg)
+(https://img.shields.io/travis/pytest-dev/pytest-selenium.svg)
+(https://img.shields.io/badge/docs-latest-brightgreen.svg)
+ (https://img.shields.io/github/issues-raw/pytest-dev/pytest-selenium.svg)
+(https://img.shields.io/requires/github/pytest-dev/pytest-selenium.svg)
 
 ### Social Networks
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/demnis-murynka/) 
