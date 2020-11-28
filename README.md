@@ -13,8 +13,8 @@
 
 
 
-
-
+<img title="Selenium" alt="Selenium" width="25px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
+![Selenium](https://img.shields.io/badge/-Selenium-fff?&logo=pytest-Se>)
 
 ### Languages
 
@@ -30,10 +30,8 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-fff?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco)
-<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
-
 ![Selenium](https://img.shields.io/badge/-Selenium-fff?&logo=Selenium)
 
 ### Social Networks
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/demnis-murynka/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/denis.murynka/) 
+[<img src="https://img.shields.io/badge/-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/demnis-murynka/) 
+[<img src = "https://img.shields.io/badge/-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/denis.murynka/) 
