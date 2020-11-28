@@ -16,8 +16,7 @@
 
 
 ### Languages
-<img title="Bash" alt="Bash" width="40px" src="https://img.icons8.com/color/2x/python.png">
-<img title="Bash" alt="Bash" width="40px" src="https://img.icons8.com/color/2x/postgreesql.png">
+<img title="Bash" alt="Bash" width="40px" src="https://img.icons8.com/color/2x/python.png"><img title="Bash" alt="Bash" width="40px" src="https://img.icons8.com/color/2x/postgreesql.png">
 
 
 ### Technologies
@@ -29,8 +28,7 @@
 
 
 ### Cloud
-<img title="Amason Web Services" alt="Amason Web Services" width="40px" src="https://img.icons8.com/color/452/amazon-web-services.png">
-<img title="Digital Ocean" alt="Digital Ocean" width="40px" src="https://img.icons8.com/windows/344/digital-ocean.png">
+<img title="Amason Web Services" alt="Amason Web Services" width="40px" src="https://img.icons8.com/color/452/amazon-web-services.png"><img title="Digital Ocean" alt="Digital Ocean" width="40px" src="https://img.icons8.com/windows/344/digital-ocean.png">
 
 ### Social Networks
 [<img src="https://img.shields.io/badge/-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/demnis-murynka/) 
