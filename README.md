@@ -16,7 +16,9 @@
 
 
 ### Languages
-<img title="Bash" alt="Bash" width="40px" src="https://img.icons8.com/color/2x/python.png"><img title="Bash" alt="Bash" width="40px" src="https://img.icons8.com/color/2x/postgreesql.png"><img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+<img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/2x/python.png">
+
+
 
 
 ### Technologies
